@@ -1,0 +1,23 @@
+.div2 {
+    display: flex;
+    width: 600px;
+
+}
+.rasm2{
+    width: 300px;
+    height: 300px;
+}
+.rasm3{
+    width: 300px;
+    height: 300px;
+}
+.button{
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    background-color: yellow;
+    border-radius: 20px;
+    font-size: 30px;
+}
